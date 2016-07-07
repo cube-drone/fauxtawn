@@ -1,0 +1,14 @@
+{
+  "name": "fauxtawn",
+  "version": "4.0.3",
+  "description": "A node wrapper for Unity Photon's Javascript library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curtis Lassam <curtis@lassam.net> (http://curtis.lassam.net)",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  }
+}
