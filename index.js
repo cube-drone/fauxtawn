@@ -4609,7 +4609,6 @@ var Photon;
     })(Chat = Photon.Chat || (Photon.Chat = {}));
 })(Photon || (Photon = {}));
 
-
 module.exports = {
   Photon: Photon,
   Exitgames: Exitgames
